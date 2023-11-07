@@ -45,6 +45,7 @@ hypothesis(Patient,measles) :-
 symptom(raju,headache). 
 symptom(raju,sneezing). 
 symptom(raju,sore_throat).
+
 ```
 ### Output:
 ![image](https://github.com/tharaga67/AI_Lab_2023-24/assets/150108534/f487059c-0cf3-4ce3-a383-bff73e95bbf7)
