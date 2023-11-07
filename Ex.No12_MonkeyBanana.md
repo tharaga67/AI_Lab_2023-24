@@ -68,6 +68,18 @@ Step 7: Stop the program.<br>
 
 ### Output/Plan:
 ![image](https://github.com/tharaga67/AI_Lab_2023-24/assets/150108534/3f9e44ab-899d-462a-ac42-6a7ffc7e28c5)
+![image](https://github.com/tharaga67/AI_Lab_2023-24/assets/150108534/7cd0561c-9570-405f-92b6-a996333dcaa4)
+![image](https://github.com/tharaga67/AI_Lab_2023-24/assets/150108534/ae3226da-6050-4bf0-ae79-9500d16db330)
+![image](https://github.com/tharaga67/AI_Lab_2023-24/assets/150108534/4d816923-8497-4960-bf82-a6035ff2a682)
+![image](https://github.com/tharaga67/AI_Lab_2023-24/assets/150108534/adfa6cec-81be-4c68-ad5c-30960218deb8)
+![image](https://github.com/tharaga67/AI_Lab_2023-24/assets/150108534/bceea169-c9a7-44c4-adf2-cb0c53699024)
+![image](https://github.com/tharaga67/AI_Lab_2023-24/assets/150108534/52de0f0a-875f-41f2-bac2-234566c68a15)
+
+
+
+
+
+
 
 
 
