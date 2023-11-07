@@ -1,6 +1,6 @@
 # Ex.No: 1  Implementation of Breadth First Search 
 ### DATE: 05.08.2023                                                                        
-### REGISTER NUMBER : 212221040152
+### REGISTER NUMBER : 212221060278
 ### AIM: 
 To write a python program to implement Breadth first Search. 
 ### Algorithm:
